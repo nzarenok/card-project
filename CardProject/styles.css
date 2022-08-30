@@ -1,0 +1,49 @@
+html, body {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.frame {
+  box-shadow: 7px 7px rgb(241, 239, 239);
+  padding: 10px;
+  margin: 0 auto; 
+  width: 324px;
+ }
+
+ img {
+  width: 100%;
+}
+
+.caption {
+  font-size: 2rem;
+  margin: 0 0 20px;
+}
+
+.fact {
+  font-style: italic;
+}
+
+.description_wrapper {
+  padding: 0 10px 10px 10px;
+  margin-top: 17px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.bordered {
+  border: 2px solid rgb(236, 233, 233);
+}
